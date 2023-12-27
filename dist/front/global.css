@@ -1,0 +1,55 @@
+.form{
+    border: 2px solid #20c997;
+    border-radius: 1rem;
+    padding: 1rem;
+    padding-top: 1rem;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    column-gap: normal;
+    gap: 1rem;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 15%;
+
+}
+
+.btn-success{
+    width: 10rem;
+    height: 3rem;
+    margin: 0;
+}
+
+.btn-outline-danger{
+    width: 5rem;
+    height: 2rem;
+    margin: 1rem;
+
+}
+
+.main{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding-top: 5rem;
+    padding-bottom: 2rem;
+}
+
+.maintext{
+    font-size: medium;
+    justify-self: center;
+    padding: 5rem;
+}
+
+.trophies-display{
+    margin: 3rem;
+    padding-top: 5rem;
+}
+
+.trophies-cards{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding-top: 2rem;
+}
